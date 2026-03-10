@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Cave Dweller Reimagined",
+    "tagline": "Terrifying cave monster",
+    "thumbnail": "https://mcpedl.com/wp-content/uploads/2023/09/cave-dweller-reimagined-1.jpg",
+    "description": "Adds scary cave dwellers with realistic sounds and jumpscares in dark caves.",
+    "downloadUrl": "https://dl.mcpedl.com/files/cave-dweller-reimagined.mcpack",
+    "category": "Dwellers"
+  },
+  {
+    "title": "Herobrine Addon V2",
+    "tagline": "The legend returns",
+    "thumbnail": "https://mcpedl.com/wp-content/uploads/herobrine-addon-v2.jpg",
+    "description": "Herobrine stalks your world, places signs and builds structures.",
+    "downloadUrl": "https://dl.mcpedl.com/files/herobrine-v2.mcpack",
+    "category": "Horror"
+  },
+  {
+    "title": "Siren Head Horror",
+    "tagline": "Tall siren creature",
+    "thumbnail": "https://mcpedl.com/wp-content/uploads/siren-head-horror.jpg",
+    "description": "Siren Head entity with loud sirens and chases in forests.",
+    "downloadUrl": "https://dl.mcpedl.com/files/siren-head.mcpack",
+    "category": "Horror Creatures"
+  }
+  // Add more objects here later...
+]
