@@ -1,27 +1,66 @@
 [
   {
-    "title": "Cave Dweller Reimagined",
-    "tagline": "Terrifying cave monster",
-    "thumbnail": "https://mcpedl.com/wp-content/uploads/2023/09/cave-dweller-reimagined-1.jpg",
-    "description": "Adds scary cave dwellers with realistic sounds and jumpscares in dark caves.",
-    "downloadUrl": "https://dl.mcpedl.com/files/cave-dweller-reimagined.mcpack",
-    "category": "Dwellers"
-  },
-  {
-    "title": "Herobrine Addon V2",
-    "tagline": "The legend returns",
-    "thumbnail": "https://mcpedl.com/wp-content/uploads/herobrine-addon-v2.jpg",
-    "description": "Herobrine stalks your world, places signs and builds structures.",
-    "downloadUrl": "https://dl.mcpedl.com/files/herobrine-v2.mcpack",
+    "title": "Herobrine v2",
+    "tagline": "The legend is back",
+    "thumbnail": "https://your-r2-url/horror_1_Herobrine v2 Addon.jpg",
+    "description": "Updated Herobrine v2 with more skills, stronger AI, and cooler effects. One of the most popular horror addons for MCPE.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_1_Herobrine%20v2%20Addon.mcaddon",
     "category": "Horror"
   },
   {
-    "title": "Siren Head Horror",
-    "tagline": "Tall siren creature",
-    "thumbnail": "https://mcpedl.com/wp-content/uploads/siren-head-horror.jpg",
-    "description": "Siren Head entity with loud sirens and chases in forests.",
-    "downloadUrl": "https://dl.mcpedl.com/files/siren-head.mcpack",
-    "category": "Horror Creatures"
+    "title": "From The Fog",
+    "tagline": "Terrifying fog creatures",
+    "thumbnail": "https://your-r2-url/horror_2_Fromtdafog.jpg",
+    "description": "Adds scary entities from The Fog series with dark atmosphere and jumpscares.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_2_Fromtdafog.mcaddon",
+    "category": "Horror"
+  },
+  {
+    "title": "The Rake",
+    "tagline": "Forest stalker",
+    "thumbnail": "https://your-r2-url/horror_3_The-Rake-V2.jpg",
+    "description": "The Rake creature that hunts players at night in dark forests.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_3_The-Rake-V2_1611587358022.mcaddon",
+    "category": "Horror"
+  },
+  {
+    "title": "SCP-096",
+    "tagline": "Don't look at him",
+    "thumbnail": "https://your-r2-url/horror_4_SCP096.jpg",
+    "description": "Adds SCP-096 that becomes extremely aggressive when looked at.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_4_SCP096.mcaddon",
+    "category": "Horror"
+  },
+  {
+    "title": "The Midnight Lurker",
+    "tagline": "Night stalker",
+    "thumbnail": "https://your-r2-url/horror_5_The_Midnight_Lurker.jpg",
+    "description": "A terrifying entity that appears at midnight with glowing eyes.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_5_The_Midnight_Lurker.mcaddon",
+    "category": "Horror"
+  },
+  {
+    "title": "Ghost Addon",
+    "tagline": "Haunted ghosts",
+    "thumbnail": "https://your-r2-url/horror_6_Ghost-Addon-MCPE-1.20.jpg",
+    "description": "Adds ghostly entities and horror atmosphere to your world.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_6_Ghost-Addon-MCPE-1.20.mcaddon",
+    "category": "Horror"
+  },
+  {
+    "title": "Creepypasta Expansion",
+    "tagline": "Classic creepypasta horror",
+    "thumbnail": "https://your-r2-url/horror_7_creepypasta expansion 1.04 bp.jpg",
+    "description": "Adds multiple creepypasta entities and horror elements to MCPE.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_7_creepypasta expansion 1.04 bp.mcpack",
+    "category": "Horror"
+  },
+  {
+    "title": "Beyond The Dark",
+    "tagline": "Dark horror addon",
+    "thumbnail": "https://your-r2-url/horror_8_beyond-the-dark-addon-official-version.jpg",
+    "description": "Brings deep dark horror and scary entities into your Minecraft world.",
+    "downloadUrl": "https://mcpeaddons.online/horror1/horror_8_beyond-the-dark-addon-official-version.mcaddon",
+    "category": "Horror"
   }
-  // Add more objects here later...
 ]
